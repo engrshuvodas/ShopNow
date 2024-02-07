@@ -25,10 +25,10 @@ The ability to checkout and submit payment information
 -->
 
 # Usage   
-To use ShopNow, simply browse the various product categories, click on a product to view more details, and click the "Add to Cart" button to select a product. The shopping cart will display the selected products and the total price. When you are ready to checkout, click the "Checkout" button and submit your payment information.
+To use Priya Fashion House, simply browse the various product categories, click on a product to view more details, and click the "Add to Cart" button to select a product. The shopping cart will display the selected products and the total price. When you are ready to checkout, click the "Checkout" button and submit your payment information.
 
 # Contributing  
-Contributions are always welcome! If you notice any issues or have any suggestions for improving ShopNow, feel free to submit a pull request. 
+Contributions are always welcome! If you notice any issues or have any suggestions for improving Priya Fashion House, feel free to submit a pull request. 
 
 # License   
 This project is licensed under the MIT License. See the LICENSE file for more details.  
